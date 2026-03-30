@@ -1,0 +1,24 @@
+{
+  "graph": {
+    "graph_jaccard": 1.0,
+    "graph_precision": 1.0,
+    "graph_recall": 1.0,
+    "graph_f1": 1.0,
+    "sca": 1.0
+  },
+  "perspective": {
+    "protagonist\u2194antagonist": 11.594402313232422,
+    "protagonist\u2194narrator": 10.991372108459473,
+    "antagonist\u2194narrator": 11.526015281677246
+  },
+  "emotion": {
+    "arc_smoothness": 0.2522149980068207,
+    "valence_span": 0.7518163919448853
+  },
+  "latent": {
+    "mean_norm": 6.79672908782959,
+    "std_norm": NaN,
+    "mean_pairwise_d": 0.0,
+    "isotropy": 0.0
+  }
+}
